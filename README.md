@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-https://media.tenor.com/DlICV9zIlbAAAAAi/penguin-penguin-clean.gif
+
+## <picture><img src = "https://media.tenor.com/DlICV9zIlbAAAAAi/penguin-penguin-clean.gif" width = 50px></picture>
