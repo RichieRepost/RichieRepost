@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmarketplace%2Factions%2Fgenerate-snake-game-from-github-contribution-grid&psig=AOvVaw1r-NFbECOCrYyp0A2WLetG&ust=1705525341227000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDB35Pn4oMDFQAAAAAdAAAAABAI)https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmarketplace%2Factions%2Fgenerate-snake-game-from-github-contribution-grid&psig=AOvVaw1r-NFbECOCrYyp0A2WLetG&ust=1705525341227000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDB35Pn4oMDFQAAAAAdAAAAABAI" alt="Snake animation" />
 
 ###
 
