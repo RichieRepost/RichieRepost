@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/OIG.RyyRAvWNs2mSsjVrRiE9?w=270&h=270&c=6&r=0&o=5&pid=ImgGn"  />
+<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1464186273791944485/A235FCC6F904F86BC5F0311E05BCBA50588EA5D4/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
